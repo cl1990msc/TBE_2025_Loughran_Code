@@ -20,3 +20,4 @@ benthic_raw_biomass.csv <- benthic data converted to full mesocosm
 
 pelagic_raw_biomass<- pelagic data converted to full mesocosm
 
+Final Code R.r <- All compiled r coding for this project. 
